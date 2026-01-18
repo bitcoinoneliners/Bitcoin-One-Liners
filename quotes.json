@@ -1,0 +1,24 @@
+[
+  {
+    "id": "q001",
+    "text": "Bitcoin is rules without rulers.",
+    "author": "Anonymous",
+    "month": "June",
+    "year": 2016,
+    "featured": true
+  },
+  {
+    "id": "q002",
+    "text": "Stay humble, stack sats.",
+    "author": "Bitcoin Proverb",
+    "month": "March",
+    "year": 2019
+  },
+  {
+    "id": "q003",
+    "text": "The world will ultimately have a single currency, the internet will have a single currency. I personally believe that it will be Bitcoin.",
+    "author": "Jack Dorsey",
+    "month": "May",
+    "year": 2018
+  }
+]
