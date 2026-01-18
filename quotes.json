@@ -20,6 +20,391 @@
     "author": "Jack Dorsey",
     "month": "May",
     "year": 2018
+  },
+  {
+    "id": "s001",
+    "text": "I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party.",
+    "author": "Satoshi Nakamoto",
+    "month": "October",
+    "year": 2008,
+    "featured": true
+  },
+  {
+    "id": "s002",
+    "text": "I was very interested to read your b-money page. I'm getting ready to release a paper that expands on your ideas into a complete working system.",
+    "author": "Satoshi Nakamoto",
+    "month": "August",
+    "year": 2008
+  },
+  {
+    "id": "s003",
+    "text": "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.",
+    "author": "Satoshi Nakamoto",
+    "month": "January",
+    "year": 2009,
+    "featured": true
+  },
+  {
+    "id": "s004",
+    "text": "The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust.",
+    "author": "Satoshi Nakamoto",
+    "month": "February",
+    "year": 2009,
+    "featured": true
+  },
+  {
+    "id": "s005",
+    "text": "Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts. Their massive overhead costs make micropayments impossible.",
+    "author": "Satoshi Nakamoto",
+    "month": "February",
+    "year": 2009
+  },
+  {
+    "id": "s006",
+    "text": "With e-currency based on cryptographic proof, without the need to trust a third party middleman, money can be secure and transactions effortless.",
+    "author": "Satoshi Nakamoto",
+    "month": "February",
+    "year": 2009
+  },
+  {
+    "id": "s007",
+    "text": "It's very attractive to the libertarian viewpoint if we can explain it properly. I'm better with code than with words though.",
+    "author": "Satoshi Nakamoto",
+    "month": "November",
+    "year": 2008
+  },
+  {
+    "id": "s008",
+    "text": "Governments are good at cutting off the heads of a centrally controlled networks like Napster, but pure P2P networks like Gnutella and Tor seem to be holding their own.",
+    "author": "Satoshi Nakamoto",
+    "month": "November",
+    "year": 2008
+  },
+  {
+    "id": "s009",
+    "text": "The fact that new coins are produced means the money supply increases by a planned amount, but this does not necessarily result in inflation. If the supply of money increases at the same rate that the number of people using it increases, prices remain stable. If it does not increase as fast as demand, there will be deflation and early holders of money will see its value increase.",
+    "author": "Satoshi Nakamoto",
+    "month": "November",
+    "year": 2008
+  },
+  {
+    "id": "s010",
+    "text": "Coins have to get initially distributed somehow, and a constant rate seems like the best formula.",
+    "author": "Satoshi Nakamoto",
+    "month": "November",
+    "year": 2008
+  },
+  {
+    "id": "s011",
+    "text": "As computers get faster and the total computing power applied to creating bitcoins increases, the difficulty increases proportionally to keep the total new production constant. Thus, it is known in advance how many new bitcoins will be created every year in the future.",
+    "author": "Satoshi Nakamoto",
+    "month": "November",
+    "year": 2008
+  },
+  {
+    "id": "s012",
+    "text": "There will be transaction fees, so nodes will have an incentive to receive and include all the transactions they can. Nodes will eventually be compensated by transaction fees alone when the total coins created hits the pre-determined ceiling.",
+    "author": "Satoshi Nakamoto",
+    "month": "November",
+    "year": 2008
+  },
+  {
+    "id": "s013",
+    "text": "I believe I've worked through all those little details over the last year and a half while coding it, and there were a lot of them.",
+    "author": "Satoshi Nakamoto",
+    "month": "November",
+    "year": 2008
+  },
+  {
+    "id": "s014",
+    "text": "Instead of the supply changing to keep the value the same, the supply is predetermined and the value changes. As the number of users grows, the value per coin increases.",
+    "author": "Satoshi Nakamoto",
+    "month": "February",
+    "year": 2009
+  },
+  {
+    "id": "s015",
+    "text": "I've developed a new open source P2P e-cash system called Bitcoin. It's completely decentralized, with no central server or trusted parties, because everything is based on crypto proof instead of trust.",
+    "author": "Satoshi Nakamoto",
+    "month": "January",
+    "year": 2009
+  },
+  {
+    "id": "s016",
+    "text": "I think it achieves nearly all the goals you set out to solve in your b-money paper. The system is entirely decentralized, without any server or trusted parties.",
+    "author": "Satoshi Nakamoto",
+    "month": "January",
+    "year": 2009
+  },
+  {
+    "id": "s017",
+    "text": "A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990's. I hope it's obvious it was only the centrally controlled nature of those systems that doomed them. I think this is the first time we're trying a decentralized, non-trust-based system.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2009"
+  },
+  {
+    "id": "s018",
+    "text": "I very much wanted to find some way to include a short message, but the problem is, the whole world would be able to see the message. As much as you may keep reminding people that the message is completely non-private, it would be an accident waiting to happen.",
+    "author": "Satoshi Nakamoto",
+    "month": "January",
+    "year": 2010
+  },
+  {
+    "id": "s019",
+    "text": "If you're sad about paying a transaction fee, you could always turn the tables and run a node yourself.",
+    "author": "Satoshi Nakamoto",
+    "month": "February",
+    "year": 2010
+  },
+  {
+    "id": "s020",
+    "text": "A rational market price for something that is expected to increase in value will already reflect the present value of the expected future increases. In your head, you do a probability estimate balancing the odds that it keeps increasing.",
+    "author": "Satoshi Nakamoto",
+    "month": "February",
+    "year": 2010
+  },
+  {
+    "id": "s021",
+    "text": "The price of any commodity tends to gravitate toward the production cost. If the price is below cost, then production slows down.",
+    "author": "Satoshi Nakamoto",
+    "month": "February",
+    "year": 2010
+  },
+  {
+    "id": "s022",
+    "text": "How does everyone feel about the B symbol with the two lines through the outside? Can we live with that as our logo?",
+    "author": "Satoshi Nakamoto",
+    "month": "February",
+    "year": 2010
+  },
+  {
+    "id": "s023",
+    "text": "Creating an account on a website is a lot easier than installing and learning to use software, and a more familiar way of doing it for most people. The only disadvantage is that you have to trust the site, but that's fine for pocket change amounts for micropayments and misc expenses.",
+    "author": "Satoshi Nakamoto",
+    "month": "May",
+    "year": 2010
+  },
+  {
+    "id": "s024",
+    "text": "If you're selling digital goods and services, where you don't lose much if someone gets a free access, and it can't be resold for profit, I think you're fine to accept 0 confirmations.",
+    "author": "Satoshi Nakamoto",
+    "month": "May",
+    "year": 2010
+  },
+  {
+    "id": "s025",
+    "text": "SHA-256 is very strong. It's not like the incremental step from MD5 to SHA1. It can last several decades unless there's some massive breakthrough attack.",
+    "author": "Satoshi Nakamoto",
+    "month": "June",
+    "year": 2010
+  },
+  {
+    "id": "s026",
+    "text": "Lost coins only make everyone else's coins worth slightly more. Think of it as a donation to everyone.",
+    "author": "Satoshi Nakamoto",
+    "month": "June",
+    "year": 2010,
+    "featured": true
+  },
+  {
+    "id": "s027",
+    "text": "We shouldn't delay forever until every possible feature is done. There's always going to be one more thing to do.",
+    "author": "Satoshi Nakamoto",
+    "month": "June",
+    "year": 2010
+  },
+  {
+    "id": "s028",
+    "text": "Like cash, you don't keep your entire net worth in your pocket, you keep walking around money for incidental expenses.",
+    "author": "Satoshi Nakamoto",
+    "month": "June",
+    "year": 2010
+  },
+  {
+    "id": "s029",
+    "text": "For some things newness is a virtue but for this type of software, maturity and stability are important. I don't want to put my money in something that's 1.0.",
+    "author": "Satoshi Nakamoto",
+    "month": "June",
+    "year": 2010
+  },
+  {
+    "id": "s030",
+    "text": "Writing a description for this thing for general audiences is bloody hard. There's nothing to relate it to.",
+    "author": "Satoshi Nakamoto",
+    "month": "July",
+    "year": 2010
+  },
+  {
+    "id": "s031",
+    "text": "If you don't believe me or don't get it, I don't have time to try to convince you, sorry.",
+    "author": "Satoshi Nakamoto",
+    "month": "July",
+    "year": 2010,
+    "featured": true
+  },
+  {
+    "id": "s032",
+    "text": "The utility of the exchanges made possible by Bitcoin will far exceed the cost of electricity used. Therefore, not having Bitcoin would be the net waste.",
+    "author": "Satoshi Nakamoto",
+    "month": "August",
+    "year": 2010
+  },
+  {
+    "id": "s033",
+    "text": "It's the same situation as gold and gold mining. The marginal cost of gold mining tends to stay near the price of gold. Gold mining is a waste, but that waste is far less than the utility of having gold available as a medium of exchange.",
+    "author": "Satoshi Nakamoto",
+    "month": "August",
+    "year": 2010
+  },
+  {
+    "id": "s034",
+    "text": "Bitcoins have no dividend or potential future dividend, therefore not like a stock. More like a collectible or commodity.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s035",
+    "text": "Bitcoin would be convenient for people who don't have a credit card or don't want to use the cards they have, either don't want the spouse to see it on the bill or don't trust giving their number to 'porn guys', or afraid of recurring billing.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s036",
+    "text": "The possibility to be anonymous or pseudonymous relies on you not revealing any identifying information about yourself in connection with the bitcoin addresses you use.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s037",
+    "text": "When someone tries to buy all the world's supply of a scarce asset, the more they buy the higher the price goes. At some point, it gets too expensive for them to buy any more.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s038",
+    "text": "In a few decades when the reward gets too small, the transaction fee will become the main compensation for nodes. I'm sure that in 20 years there will either be very large transaction volume or no volume.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s039",
+    "text": "Sigh… why delete a wallet instead of moving it aside and keeping the old copy just in case? You should never delete a wallet.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s040",
+    "text": "Proof-of-work has the nice property that it can be relayed through untrusted middlemen. We don't have to worry about a chain of custody of communication. It doesn't matter who tells you a longest chain, the proof-of-work speaks for itself.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s041",
+    "text": "If SHA-256 became completely broken, I think we could come to some agreement about what the honest block chain was before the trouble started, lock that in and continue from there with a new hash function.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s042",
+    "text": "Bitcoin isn't currently practical for very small micropayments. Not for things like pay per search or per page view without an aggregating mechanism, not things needing to pay less than 0.01. The dust spam limit is a first try at intentionally trying to prevent overly small micropayments like that.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s043",
+    "text": "The design supports a tremendous variety of possible transaction types that I designed years ago. Escrow transactions, bonded contracts, third party arbitration, multi-party signature, etc. If Bitcoin catches on in a big way, these are things we'll want to explore in the future, but they all had to be designed at the beginning to make sure they would be possible later.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s044",
+    "text": "The result is a distributed system with no single point of failure. Users hold the crypto keys to their own money and transact directly with each other, with the help of the P2P network to check for double-spending.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2009"
+  },
+  {
+    "id": "s045",
+    "text": "The heat from your computer is not wasted if you need to heat your home.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s046",
+    "text": "Generation is basically free anywhere that has electric heat, since your computer's heat is offsetting your baseboard electric heating. Many small flats have electric heat out of convenience.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
+  },
+  {
+    "id": "s047",
+    "text": "At first, most users would run network nodes, but as the network grows beyond a certain point, it would be left more and more to specialists with server farms of specialized hardware.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2008"
+  },
+  {
+    "id": "s048",
+    "text": "It would have been nice to get this attention in any other context. WikiLeaks has kicked the hornet's nest, and the swarm is headed towards us.",
+    "author": "Satoshi Nakamoto",
+    "month": "December",
+    "year": 2010
+  },
+  {
+    "id": "s049",
+    "text": "There's more work to do on DoS, but I'm doing a quick build of what I have so far in case it's needed, before venturing into more complex ideas.",
+    "author": "Satoshi Nakamoto",
+    "month": "December",
+    "year": 2010
+  },
+  {
+    "id": "s050",
+    "text": "I am not Dorian Nakamoto.",
+    "author": "Satoshi Nakamoto",
+    "month": "March",
+    "year": 2014
+  },
+  {
+    "id": "s051",
+    "text": "I've been working on bitcoin's design since 2007. At some point I became convinced there was a way to do this without any trust required at all and couldn't resist to keep thinking about it.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2009"
+  },
+  {
+    "id": "s052",
+    "text": "The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power.",
+    "author": "Satoshi Nakamoto",
+    "month": "October",
+    "year": 2008
+  },
+  {
+    "id": "s053",
+    "text": "We have proposed a system for electronic transactions without relying on trust. We started with the usual framework of coins made from digital signatures, which provides strong control of ownership, but is incomplete without a way to prevent double-spending.",
+    "author": "Satoshi Nakamoto",
+    "month": "October",
+    "year": 2008
+  },
+  {
+    "id": "s054",
+    "text": "Most of the value comes from the value that others place in it. Gold, for instance, is pretty, non-corrosive and easily malleable, but most of its value is clearly not from that. Brass is shiny and similar in color. The vast majority of gold sits unused in vaults, owned by governments that could care less about its prettiness.",
+    "author": "Satoshi Nakamoto",
+    "month": "unknown",
+    "year": "circa 2010"
   }
+]
 
 ]
+
