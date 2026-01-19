@@ -404,6 +404,233 @@
     "month": "unknown",
     "year": "circa 2010"
   }
+  ,
+  {
+    "id": 501,
+    "text": "Bitcoin seems to be a very promising idea. I like the idea of basing security on the assumption that the CPU power of honest participants outweighs that of the attacker.",
+    "author": "Hal Finney",
+    "month": 11,
+    "year": 2008,
+    "featured": false
+  },
+  {
+    "id": 502,
+    "text": "I see Bitcoin as ultimately becoming a reserve currency for banks, playing much the same role as gold did in the early days of banking. Banks could issue digital cash with greater anonymity and lighter weight, more efficient transactions.",
+    "author": "Hal Finney",
+    "month": 1,
+    "year": 2010,
+    "featured": true
+  },
+  {
+    "id": 503,
+    "text": "Running bitcoin.",
+    "author": "Hal Finney",
+    "month": 1,
+    "year": 2009,
+    "featured": true
+  },
+  {
+    "id": 504,
+    "text": "The computer can be used as a tool to liberate and protect people, rather than to control them.",
+    "author": "Hal Finney",
+    "month": 11,
+    "year": 1992,
+    "featured": false
+  },
+  {
+    "id": 505,
+    "text": "For Bitcoin to succeed and become secure, bitcoins must become vastly more expensive.",
+    "author": "Hal Finney",
+    "month": 4,
+    "year": 2010,
+    "featured": false
+  },
+  {
+    "id": 506,
+    "text": "Since we're all rich with bitcoins, or we will be once they're worth a million dollars like everyone expects, we ought to put some of this unearned wealth to good use.",
+    "author": "Hal Finney",
+    "month": 1,
+    "year": 2011,
+    "featured": false
+  },
+  {
+    "id": 507,
+    "text": "Your keys, your Bitcoin. Not your keys, not your Bitcoin.",
+    "author": "Andreas Antonopoulos",
+    "month": 10,
+    "year": 2014,
+    "featured": true
+  },
+  {
+    "id": 508,
+    "text": "Bitcoin is a tool for freeing humanity from oligarchs and tyrants, from censorship and unjust seizure.",
+    "author": "Andreas Antonopoulos",
+    "month": 6,
+    "year": 2020,
+    "featured": false
+  },
+  {
+    "id": 509,
+    "text": "If you change the protocol all it means is that the current version of Bitcoin is replaced by a different version of the Bitcoin system.",
+    "author": "Andreas Antonopoulos",
+    "month": 3,
+    "year": 2013,
+    "featured": false
+  },
+  {
+    "id": 510,
+    "text": "Bitcoin is the first time in history that an individual owns something that nobody else owns.",
+    "author": "Michael Saylor",
+    "month": 7,
+    "year": 2020,
+    "featured": true
+  },
+  {
+    "id": 511,
+    "text": "Bitcoin is digital property.",
+    "author": "Michael Saylor",
+    "month": 9,
+    "year": 2020,
+    "featured": false
+  },
+  {
+    "id": 512,
+    "text": "You're going to see the largest transfer of wealth from the least sophisticated to the most sophisticated.",
+    "author": "Michael Saylor",
+    "month": 10,
+    "year": 2024,
+    "featured": false
+  },
+  {
+    "id": 513,
+    "text": "Bitcoin doesn't care about your feelings. Bitcoin doesn't care about your politics. Bitcoin cares about incentives.",
+    "author": "Matt Odell",
+    "month": 5,
+    "year": 2023,
+    "featured": false
+  },
+  {
+    "id": 514,
+    "text": "Bitcoin is the greatest invention since the internet.",
+    "author": "Matt Odell",
+    "month": 11,
+    "year": 2022,
+    "featured": false
+  },
+  {
+    "id": 515,
+    "text": "Privacy is not optional in Bitcoin. It's a fundamental right we're reclaiming.",
+    "author": "Matt Odell",
+    "month": 2,
+    "year": 2024,
+    "featured": false
+  },
+  {
+    "id": 516,
+    "text": "There is no middle ground. Either you ban all altcoins or you have no business regulating Bitcoin.",
+    "author": "Mircea Popescu",
+    "month": 8,
+    "year": 2014,
+    "featured": false
+  },
+  {
+    "id": 517,
+    "text": "Bitcoin is a primitivist ideology pretending to be a primitivist technology.",
+    "author": "Mircea Popescu",
+    "month": 3,
+    "year": 2015,
+    "featured": false
+  },
+  {
+    "id": 518,
+    "text": "Bitcoin's halving is the heartbeat of its monetary policy.",
+    "author": "Nik Bhatia",
+    "month": 4,
+    "year": 2021,
+    "featured": false
+  },
+  {
+    "id": 519,
+    "text": "Sound money is the foundation of sound economics and sound civilization.",
+    "author": "Nik Bhatia",
+    "month": 1,
+    "year": 2022,
+    "featured": true
+  },
+  {
+    "id": 520,
+    "text": "Bitcoin is dead. Long live Bitcoin.",
+    "author": "Nik Bhatia",
+    "month": 6,
+    "year": 2023,
+    "featured": false
+  },
+  {
+    "id": 521,
+    "text": "Technology creates deflation, and Bitcoin is the monetary system for that world.",
+    "author": "Jeff Booth",
+    "month": 2,
+    "year": 2020,
+    "featured": false
+  },
+  {
+    "id": 522,
+    "text": "Printing money is violence. Bitcoin stops it.",
+    "author": "Jeff Booth",
+    "month": 3,
+    "year": 2021,
+    "featured": false
+  },
+  {
+    "id": 523,
+    "text": "Bitcoin flips the script on inflation. It forces abundance through scarcity.",
+    "author": "Jeff Booth",
+    "month": 1,
+    "year": 2020,
+    "featured": false
+  },
+  {
+    "id": 524,
+    "text": "Bitcoin is the apex property. Unconfiscatable, unseizable, eternal.",
+    "author": "Erik Cason",
+    "month": 1,
+    "year": 2024,
+    "featured": false
+  },
+  {
+    "id": 525,
+    "text": "HODLers are the new nobility. Sovereign individuals.",
+    "author": "Erik Cason",
+    "month": 7,
+    "year": 2023,
+    "featured": false
+  },
+  {
+    "id": 526,
+    "text": "Fuck your permission. Bitcoin is opt-in money.",
+    "author": "American HODL",
+    "month": 10,
+    "year": 2022,
+    "featured": false
+  },
+  {
+    "id": 527,
+    "text": "Bitcoin doesn't scale to your tyranny.",
+    "author": "American HODL",
+    "month": 3,
+    "year": 2024,
+    "featured": false
+  },
+  {
+    "id": 528,
+    "text": "Central banks are obsolete. Bitcoin is the people's reserve.",
+    "author": "American HODL",
+    "month": 11,
+    "year": 2023,
+    "featured": false
+  }
 ]
+]
+
 
 
