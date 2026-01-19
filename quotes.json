@@ -403,8 +403,7 @@
     "author": "Satoshi Nakamoto",
     "month": "unknown",
     "year": "circa 2010"
-  }
-  ,
+  },
   {
     "id": 501,
     "text": "Bitcoin seems to be a very promising idea. I like the idea of basing security on the assumption that the CPU power of honest participants outweighs that of the attacker.",
@@ -630,6 +629,7 @@
     "featured": false
   }
 ]
+
 
 
 
