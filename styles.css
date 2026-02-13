@@ -460,6 +460,117 @@ img {
   opacity: 0.4;
 }
 
+/* ===== Quote of the Week Spotlight ===== */
+.qotw-section {
+  padding: 0 var(--container-padding) 40px;
+  max-width: var(--container-max);
+  margin: 0 auto;
+}
+
+.qotw-card {
+  position: relative;
+  background: linear-gradient(135deg, rgba(247, 147, 26, 0.08) 0%, var(--bg-card) 60%, rgba(247, 147, 26, 0.04) 100%);
+  border: 1px solid rgba(247, 147, 26, 0.3);
+  border-radius: 16px;
+  padding: 48px 40px 32px;
+  box-shadow: 0 0 80px rgba(247, 147, 26, 0.12), var(--shadow-md);
+  overflow: hidden;
+}
+
+.qotw-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at top left, rgba(247, 147, 26, 0.10), transparent 60%);
+  pointer-events: none;
+}
+
+.qotw-icon {
+  font-size: 64px;
+  font-family: Georgia, serif;
+  color: var(--bitcoin-orange);
+  opacity: 0.4;
+  line-height: 1;
+  position: absolute;
+  top: 16px;
+  left: 32px;
+}
+
+.qotw-text {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--text-primary);
+  margin: 0 0 16px 0;
+  padding: 0;
+  border: none;
+  position: relative;
+}
+
+.qotw-footer {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.qotw-author {
+  color: var(--bitcoin-orange);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.qotw-date {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.qotw-commentary {
+  position: relative;
+  border-top: 1px solid var(--border-subtle);
+  padding-top: 20px;
+}
+
+.qotw-commentary h3 {
+  color: var(--bitcoin-orange);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 0 0 12px 0;
+}
+
+.qotw-commentary p {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.7;
+  margin: 0 0 12px 0;
+}
+
+.qotw-commentary p:last-child {
+  margin-bottom: 0;
+}
+
+.qotw-badge {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 4px 12px;
+  background: rgba(247, 147, 26, 0.15);
+  border: 1px solid rgba(247, 147, 26, 0.25);
+  border-radius: 20px;
+  color: var(--bitcoin-orange-light);
+  font-size: 0.75rem;
+  letter-spacing: 0.5px;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .qotw-card { padding: 36px 24px 24px; }
+  .qotw-text { font-size: 1.25rem; }
+  .qotw-icon { font-size: 48px; top: 12px; left: 20px; }
+}
+
 .quote-icon {
   position: absolute;
   top: 20px;

@@ -233,7 +233,8 @@
     "text": "Writing a description for this thing for general audiences is bloody hard. There's nothing to relate it to.",
     "author": "Satoshi Nakamoto",
     "month": "July",
-    "year": 2010
+    "year": 2010,
+    "featured": true
   },
   {
     "id": 34,
@@ -626,6 +627,22 @@
     "author": "American HODL",
     "month": "November",
     "year": 2023,
+    "featured": false
+  },
+  {
+    "id": 86,
+    "text": "2026 I expect to be a bear leg to the four-year cycle.",
+    "author": "Steven McClurg",
+    "month": "February",
+    "year": 2026,
+    "featured": false
+  },
+  {
+    "id": 87,
+    "text": "We need it for spirit back in the crypto market.",
+    "author": "Mike Novogratz",
+    "month": "February",
+    "year": 2026,
     "featured": false
   }
 ]
